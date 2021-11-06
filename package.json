@@ -34,5 +34,13 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leif808/nucampsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leif808/nucampsite/issues"
+  },
+  "homepage": "https://github.com/leif808/nucampsite#readme"
 }
